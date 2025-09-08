@@ -235,7 +235,7 @@ IDE utilizada: IntelliJ
 - Testes no **Postman/Insomnia** (GET/POST/PUT/DELETE)
 
 ### GET (Find All)
-<img width="926" height="701" alt="Get_findAll" src="https://github.com/user-attachments/assets/cd0c4d97-7263-42a1-a517-f9681cf64bbd" />
+<img width="1913" height="917" alt="getAll" src="https://github.com/user-attachments/assets/8ec305ce-c341-44a4-8973-c89f98c7b0bc" />
 
 ### GET (Find by ID)
 <img width="787" height="607" alt="Get_findById" src="https://github.com/user-attachments/assets/0ecead84-6a88-40d2-aeea-ec326d7fdc46" />
