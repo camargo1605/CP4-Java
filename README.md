@@ -235,19 +235,19 @@ IDE utilizada: IntelliJ
 - Testes no **Postman/Insomnia** (GET/POST/PUT/DELETE)
 
 ### GET (Find All)
-<img width="926" height="701" alt="Get_findAll" src="https://github.com/user-attachments/assets/cd0c4d97-7263-42a1-a517-f9681cf64bbd" />
+<img width="1913" height="917" alt="getAll" src="https://github.com/user-attachments/assets/777496c6-29d8-43e9-810f-802fa67a73e2" />
 
 ### GET (Find by ID)
-<img width="787" height="607" alt="Get_findById" src="https://github.com/user-attachments/assets/0ecead84-6a88-40d2-aeea-ec326d7fdc46" />
+<img width="1907" height="1044" alt="listarbyid" src="https://github.com/user-attachments/assets/68fb6aa6-c3ef-487d-86d9-93a63132aa96" />
 
 ### POST
-<img width="784" height="601" alt="Post" src="https://github.com/user-attachments/assets/f552d2cd-3df8-4901-87fc-3dda475f36a3" />
+<img width="1918" height="919" alt="post" src="https://github.com/user-attachments/assets/0e8b9b6d-4678-439c-a12d-c5add8db102f" />
 
 ### PUT
-<img width="796" height="599" alt="Put" src="https://github.com/user-attachments/assets/016f1ad3-6426-49c0-82e5-a408e4df3f39" />
+<img width="1916" height="920" alt="put" src="https://github.com/user-attachments/assets/792c0190-a28d-4790-bf48-374b3be64d72" />
 
 ### DELETE
-<img width="789" height="603" alt="Delete" src="https://github.com/user-attachments/assets/6b1b228e-734f-4b82-a7b2-4376c05d336f" />
+<img width="1920" height="1037" alt="delete" src="https://github.com/user-attachments/assets/680e2e06-0d7e-4b8b-a890-8ce8378f4b0e" />
 
 ### PATCH
 <img width="787" height="593" alt="image" src="https://github.com/user-attachments/assets/32bca9f7-8818-4706-be98-7d972481531e" />
